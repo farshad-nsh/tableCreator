@@ -3,7 +3,7 @@ Decorator design pattern is used to create a library to make tables.
 
 ## Motivation
 The aim of this opensource library is to create advanced
-tables for any application in React.js 
+tables for any application in React.js. 
 To utilize loose coupling and encouraging programmers
 to contribute to this library, decorator design pattern is used.
 <dl>
